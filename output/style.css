@@ -1,0 +1,38 @@
+/* Styling the HTMl */
+
+body {
+    width: 100%
+}
+
+.jumbotron {
+    background-color:  #1a239e;
+    color: #ffffff;
+    font-weight: 800!important;
+}
+
+.card {
+    margin: 10px;
+    background-color:  #1f29b9;
+}
+
+.card-header {
+    color: #ffffff;
+}
+
+.list-group-item {
+    background-color: gray;
+    color: #ffffff;
+}
+
+.list-group-item a {
+    color: #ffffff;
+}
+
+.team-area {
+    display: inline-block;
+    flex-wrap: wrap;
+}
+#manager {
+    margin-right: 75%;
+    flex: content;
+}
